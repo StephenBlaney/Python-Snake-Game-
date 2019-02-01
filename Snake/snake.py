@@ -1,6 +1,9 @@
 import turtle
 import time
 import random
+import tkinter
+
+#This is a comment in python, testing for the githubs. Sunscribe to pewdipie
 
 delay = 0.1
 score = 0
